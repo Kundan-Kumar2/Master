@@ -1,0 +1,5 @@
+public class myApexCode {
+ public static class List<Apex> sgetApexMethod {
+   return getApexMethod [Select Id, Name From Apex];
+   }
+}
